@@ -1,5 +1,5 @@
 public class TestOne {
   public static void main(String[] args){
-  System.out.println("This program can't do nuthin");
+  System.out.println("Editing this ya git");
   }
 }
